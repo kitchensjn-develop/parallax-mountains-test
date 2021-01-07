@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-base_url: "https://kitchensjn-develop.github.io/parallax-mountains-test"
+baseurl: "https://kitchensjn-develop.github.io/parallax-mountains-test"
 name: "James Kitchens"
 job_title: "Environmental Data Scientist & Creative Programmer"
 social_links: 
