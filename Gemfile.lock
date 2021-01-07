@@ -1,7 +1,7 @@
 PATH
   remote: /Users/jameskitchens/Documents/GitHub/parallax-mountains
   specs:
-    parallax-mountains (0.1.3)
+    parallax-mountains (0.1.5)
       jekyll (~> 4.2)
 
 GEM
